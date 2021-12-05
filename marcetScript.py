@@ -7,7 +7,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 marcetFile = open("C:\\Users\\chris\\Documents\\GitHub\\Political-Economy-Word-Clouds\\marcetConversations.txt", "r", encoding="utf-8")
 marcetTxt = marcetFile.read()
 stopwords = set(STOPWORDS)
-stopwords.update(["caroline", "mrs", "b"])
+stopwords.update(["will", "may", "must"])
 
 marcetMask = np.array(Image.open("C:\\Users\\chris\\Documents\\GitHub\\Political-Economy-Word-Clouds\\marcet.png"))
 

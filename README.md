@@ -3,6 +3,11 @@ In particular, Adam Smith's Wealth of Nations, David Ricardo's Principles of Pol
 Additionally, two works of female popularizers of political economy are drawn upon: Harriet Martineau's Illustrations of Political Economy and Jane Haldimand Marcet's Conversations on Political Economy.
 The word clouds are generated using the portraits of the authors.
 
+A number of conclusions can be drawn from the word clouds:
+(1) Adam Smith had an exceptionally wide vocabulary.
+(2) Harriet Martineau's _Illustrations_ were qualitatively different than Jane Haldimand Marcet's _Conversations_, despite the fact that Martineau drew her main inspiration from Marcet. Martineau predominantly wrote using literary language, while Marcet wrote using the vocabulary of political economy.
+(3) Malthus' Essay on Population uses starkly different langauge than the other canonical works of classical political economy.
+
 Smith, Wealth of Nations:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/smithCloud.png)
 

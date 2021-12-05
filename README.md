@@ -14,20 +14,20 @@ A number of conclusions can be drawn from the word clouds:
 
 (3) Malthus' _Essay on Population_ uses starkly different langauge than the other canonical works of classical political economy.
 
-Adam Smith, Wealth of Nations:
+Adam Smith, _Wealth of Nations_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/smithCloud.png?raw=true)
 
-Thomas Robert Malthus, Essay on the Principle of Population:
+Thomas Robert Malthus, _Essay on the Principle of Population_:
 ![alt text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/malthusCloud.png?raw=true)
 
-Thomas Robert Malthus, Principles of Political Economy:
+Thomas Robert Malthus, _Principles of Political Economy_:
 ![alt text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/malthusCloud2.png?raw=true)
 
-David Ricardo, Principles of Political Economy:
+David Ricardo, _Principles of Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/ricardoCloud.png?raw=true)
 
-Jane Haldimand Marcet, Conversations on Political Economy:
+Jane Haldimand Marcet, _Conversations on Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/marcetCloudFixed.png)
 
-Harriet Martineau, Illustrations of Political Economy:
+Harriet Martineau, _Illustrations of Political Economy_:
 ![alt_text](https://github.com/chrissimmerman/Political-Economy-Word-Clouds/blob/main/martineauCloud.png?raw=true)

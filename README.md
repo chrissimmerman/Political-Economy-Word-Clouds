@@ -1,3 +1,4 @@
+**Description**
 This project uses Andreas Mueller's word_cloud package to create word clouds of the main texts of classical political economy.
 
 In particular, Adam Smith's Wealth of Nations, David Ricardo's Principles of Political Economy, Thomas Robert Malthus' Essay on the Principle of Population and Principles of Political Economy are used.
@@ -14,6 +15,7 @@ A number of conclusions can be drawn from the word clouds:
 
 (3) Malthus' _Essay on Population_ uses starkly different langauge than the other canonical works of classical political economy.
 
+**Word Clouds**
 Adam Smith, _Wealth of Nations_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/smithCloud.png?raw=true)
 

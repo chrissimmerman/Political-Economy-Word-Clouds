@@ -28,7 +28,8 @@ In particular, the following texts are used:
 
 The colors, shapes, and texts of the word clouds are generated using the portraits of the authors. If the reader wishes to recreate the clouds, they can download the masks, texts, and programs, replace the relevant file paths in the programs, and then run the programs.
 
-A number of conclusions can be drawn from the word clouds:
+
+**Conclusions**
 
 (1) Adam Smith had an exceptionally wide vocabulary compared to the other two giants of classical economics.
 

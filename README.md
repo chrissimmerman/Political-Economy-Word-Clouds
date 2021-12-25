@@ -43,7 +43,7 @@ A number of conclusions can be drawn from the word clouds:
 (7) The world was more industrialized by the time of the marginal revolutionaries, because keywords like “corn”, “country”, etc. are not as frequent as in the classical political economists.
 
 
-**Sample Word Cloud**
+**Sample Word Clouds**
 
 Harriet Martineau, _Illustrations of Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)

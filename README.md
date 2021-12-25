@@ -19,4 +19,4 @@ A number of conclusions can be drawn from the word clouds:
 **Sample Word Cloud**
 
 Harriet Martineau, _Illustrations of Political Economy_:
-![alt_text](https://github.com/chrissimmerman/Political-Economy-Word-Clouds/blob/main/martineauCloud.png?raw=true)
+![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)

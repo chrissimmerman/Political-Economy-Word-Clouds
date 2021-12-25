@@ -1,4 +1,4 @@
-**Description**
+# **Description**
 
 This project uses Andreas Mueller's word_cloud package to create word clouds of the main texts of classical political economy and the marginal revolution.
 
@@ -29,7 +29,7 @@ In particular, the following texts are used:
 The colors, shapes, and texts of the word clouds are generated using the portraits of the authors. If the reader wishes to recreate the clouds, they can download the masks, texts, and programs, replace the relevant file paths in the programs, and then run the programs.
 
 
-**Conclusions**
+# **Conclusions**
 
 (1) Adam Smith had an exceptionally wide vocabulary compared to the other two giants of classical economics.
 
@@ -46,7 +46,7 @@ The colors, shapes, and texts of the word clouds are generated using the portrai
 (7) The world was more industrialized by the time of the marginal revolutionaries, because keywords like “corn”, “country”, etc. are not as frequent as in the classical political economists.
 
 
-**Sample Word Clouds**
+# **Sample Word Clouds**
 
 Harriet Martineau, _Illustrations of Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)

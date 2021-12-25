@@ -14,6 +14,8 @@ In particular, the following texts are used:
   
   Harriet Martineau, _Illustrations of Political Economy_ (1833-4),
   
+  John Stuart Mill, _Principles of Political Economy_ (1848),
+  
   William Stanley Jevons, _Theory of Political Economy_ (1871),
   
   Carl Menger, _Principles of Economics_ (1871),

@@ -47,3 +47,6 @@ A number of conclusions can be drawn from the word clouds:
 
 Harriet Martineau, _Illustrations of Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)
+
+John Stuart Mill _Principles of Political Economy_
+![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/millcloud.png)

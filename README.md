@@ -1,14 +1,14 @@
 # **Description**
 
-This project uses Andreas Mueller's word_cloud package to create word clouds of the main texts of classical political economy and the marginal revolution.
+This project uses Andreas Mueller's word_cloud package to create word clouds of the main texts of classical political economy, the marginal revolution, and other important schools of thought.
 
 In particular, the following texts are used:
 
-  Adam Smith, _Wealth of Nations_ (1776),
+  Adam Smith, _The Wealth of Nations_ (1776),
   
-  David Ricardo, _Principles of Political Economy_ (1817),
+  David Ricardo, _On the Principles of Political Economy and Taxation_ (1817),
   
-  Thomas Robert Malthus, _Essay on the Principle of Population_ (1803) and _Principles of Political Economy_ (1820),
+  Thomas Robert Malthus, _An Essay on the Principle of Population_ (1803) and _Principles of Political Economy_ (1820),
   
   Jane Haldimand Marcet, _Conversations on Political Economy_ (1816),
   
@@ -16,15 +16,17 @@ In particular, the following texts are used:
   
   John Stuart Mill, _Principles of Political Economy_ (1848),
   
-  William Stanley Jevons, _Theory of Political Economy_ (1871),
+  William Stanley Jevons, _The Theory of Political Economy_ (1871),
   
   Carl Menger, _Principles of Economics_ (1871),
   
-  Leon Walras, _Elements of Pure Economics_ (1874),
+  Leon Walras, _The Elements of Pure Economics_ (1874),
   
-  John Bates Clark, _Philosophy of Wealth_ (1885),
+  John Bates Clark, _The Philosophy of Wealth_ (1885),
   
   Alfred Marshall, _Principles of Economics_ (1890).
+  
+  John Maynard Keynes, _The General Theory of Employment, Interest and Money_ (1936).
 
 The colors, shapes, and texts of the word clouds are generated using the portraits of the authors. If the reader wishes to recreate the clouds, they can download the masks, texts, and programs, replace the relevant file paths in the programs, and then run the programs.
 

@@ -54,8 +54,8 @@ The colors and shapes of the word clouds are generated using the portraits of th
 
 # **Sample Word Clouds**
 
-Harriet Martineau, _Illustrations of Political Economy_:
+Harriet Martineau, _Illustrations of Political Economy_ (1833-4):
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)
 
-Nassau William Senior, _Political Economy_
+Nassau William Senior, _Political Economy_ (1850):
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/seniorCloud.png)

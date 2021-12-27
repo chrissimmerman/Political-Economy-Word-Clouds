@@ -28,7 +28,7 @@ In particular, the following texts are used:
   
   John Maynard Keynes, _The General Theory of Employment, Interest and Money_ (1936).
 
-The colors, shapes, and texts of the word clouds are generated using the portraits of the authors. If the reader wishes to recreate the clouds, they can download the masks, texts, and programs, replace the relevant file paths in the programs, and then run the programs.
+The colors and shapes of the word clouds are generated using the portraits of the authors. If the reader wishes to recreate the clouds, they can download the masks, texts, and programs, replace the relevant file paths in the programs, and then run the programs.
 
 
 # **Conclusions**

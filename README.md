@@ -16,6 +16,8 @@ In particular, the following texts are used:
   
   John Stuart Mill, _Principles of Political Economy_ (1848),
   
+  Karl Marx, _Capital_ (1867)
+  
   William Stanley Jevons, _The Theory of Political Economy_ (1871),
   
   Carl Menger, _Principles of Economics_ (1871),

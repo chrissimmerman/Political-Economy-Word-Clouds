@@ -16,6 +16,8 @@ In particular, the following texts are used:
   
   John Stuart Mill, _Principles of Political Economy_ (1848),
   
+  Nassau William Senior, _Political Economy_ (1850)
+  
   Karl Marx, _Capital_ (1867)
   
   William Stanley Jevons, _The Theory of Political Economy_ (1871),
@@ -55,5 +57,5 @@ The colors and shapes of the word clouds are generated using the portraits of th
 Harriet Martineau, _Illustrations of Political Economy_:
 ![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/martineauCloudWhite.png)
 
-John Stuart Mill, _Principles of Political Economy_
-![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/millcloud.png)
+Nassau William Senior, _Political Economy_
+![alt_text](https://raw.githubusercontent.com/chrissimmerman/Political-Economy-Word-Clouds/main/clouds/seniorCloud.png)

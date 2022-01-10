@@ -43,7 +43,7 @@ The colors and shapes of the word clouds are generated using the portraits of th
 
 (3) Malthus' _Essay on Population_ uses starkly different langauge than the other canonical works of classical political economy.
 
-(4) The marginal revolutionaries were more concerned with the psychological value derived by individuals than their political economist predecessors, as signified by the presence of the words like “utility”, “satisfaction”, and “pleasure.”
+(4) The marginal revolutionaries were more concerned with the psychological value derived by individuals than their political economist predecessors, as signified by the presence of words like “utility”, “satisfaction”, and “pleasure.”
 
 (5)  If the “marginal revolution” is defined as the penetration of the differential calculus into economics, it should be noted that few of the marginal revolutionaries wrote in explicitly mathematical language (see Jevons, Walras).
 
